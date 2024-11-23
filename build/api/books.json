@@ -1,0 +1,48 @@
+{
+  "our_books": [
+    {
+      "id": 3,
+      "image": "/img/cover/asm3.jpg",
+      "title": "Assembler Практикум",
+      "description": "2-е издание новых AVX инструкций. Ещё 512 на подходе.",
+      "price": 888
+    },
+    {
+      "id": 4,
+      "image": "/img/cover/asm2.jpg",
+      "title": "The art of assembly language",
+      "description": "Ассемблер в стихах и наскальных рисунках.",
+      "price": 666
+    },
+    {
+      "id": 5,
+      "image": "/img/cover/asm3.jpg",
+      "title": "Assembler Практикум",
+      "description": "2-е издание новых AVX инструкций. Ещё 512 на подходе.",
+      "price": 888
+    },
+    {
+      "id": 6,
+      "image": "/img/cover/asm2.jpg",
+      "title": "The art of assembly language",
+      "description": "Ассемблер в стихах и наскальных рисунках.",
+      "price": 666
+    }
+  ],
+  "order_books": [
+    {
+      "id": 1,
+      "image": "/img/cover/asm3.jpg",
+      "title": "Assembler Практикум",
+      "description": "2-е издание новых AVX инструкций. Ещё 512 на подходе.",
+      "price": 888
+    },
+    {
+      "id": 2,
+      "image": "/img/cover/asm2.jpg",
+      "title": "The art of assembly language",
+      "description": "Ассемблер в стихах и наскальных рисунках.",
+      "price": 666
+    }
+  ]
+}
